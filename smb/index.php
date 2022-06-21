@@ -29,13 +29,13 @@
           $mail->CharSet = 'UTF-8';
           $mail->Encoding = 'base64';
           //Configuracion servidor mail
-          $mail->From = "info@neotica.net"; //remitente
+          $mail->From = "no-reply@autenticae.net"; //remitente
           $mail->SMTPAuth = true;                // SMTP username
           $mail->SMTPSecure = 'tls'; //seguridad
           $mail->Host = "smtp.gmail.com"; // servidor smtp
           $mail->FromName = "Servicio autenticae";
           $mail->Port = 587; //puerto
-          $mail->Username ='info@neotica.net'; //nombre usuario
+          $mail->Username ='no-reply@autenticae.net'; //nombre usuario
           $mail->Password = 'PK26DC*js'; //contraseña
           //Agregar destinatario
         //  $mail->AddAddress($_POST['email']);
