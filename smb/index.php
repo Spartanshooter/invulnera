@@ -29,14 +29,14 @@
           $mail->CharSet = 'UTF-8';
           $mail->Encoding = 'base64';
           //Configuracion servidor mail
-          $mail->From = "no-reply@autenticae.net"; //remitente
+          $mail->From = "no-reply@neotica.net"; //remitente
           $mail->SMTPAuth = true;                // SMTP username
           $mail->SMTPSecure = 'tls'; //seguridad
           $mail->Host = "smtp.gmail.com"; // servidor smtp
           $mail->FromName = "Servicio autenticae";
           $mail->Port = 587; //puerto
-          $mail->Username ='no-reply@autenticae.net'; //nombre usuario
-          $mail->Password = 'PK26DC*js'; //contraseña
+          $mail->Username ='no-reply@neotica.net'; //nombre usuario
+          $mail->Password = 'e4GK>Fyg'; //contraseña
           //Agregar destinatario
         //  $mail->AddAddress($_POST['email']);
           $mail->AddAddress($_POST['email']);
@@ -58,14 +58,14 @@
           $mail->CharSet = 'UTF-8';
           $mail->Encoding = 'base64';
           //Configuracion servidor mail
-          $mail->From = "info@neotica.net"; //remitente
+          $mail->From = "no-reply@neotica.net"; //remitente
           $mail->SMTPAuth = true;                // SMTP username
           $mail->SMTPSecure = 'tls'; //seguridad
           $mail->Host = "smtp.gmail.com"; // servidor smtp
           $mail->FromName = "Servicio autenticae";
           $mail->Port = 587; //puerto
-          $mail->Username ='info@neotica.net'; //nombre usuario
-          $mail->Password = 'PK26DC*js'; //contraseña
+          $mail->Username ='no-reply@neotica.net'; //nombre usuario
+          $mail->Password = 'e4GK>Fyg'; //contraseña
           //Agregar destinatario
         //  $mail->AddAddress($_POST['email']);
     //    $mail->AddAddress('fjsanchez@neotica.net');
