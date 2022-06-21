@@ -7,7 +7,7 @@
         require 'PHPMailer/PHPMailerAutoload.php';
         require_once "recaptchalib.php";
 
-        $secret = "6LfbxDogAAAAAKbfJ76-9OLyNI6uI58Wh863JAa-";
+        $secret = "6LeHuIkgAAAAAJ89QG786dweRtZldUC7OvyjfV3S";
 
         // empty response
         $response = null;
