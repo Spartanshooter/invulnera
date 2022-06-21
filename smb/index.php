@@ -124,9 +124,9 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="https://autenticae.ddns.net/login/">Plataforma</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://192.168.0.240/login/">Plataforma</a></li>
                         <li class="nav-item"><a class="nav-link" href="https://autenticae.blogspot.com/">Blog</a></li>
-                        <li class="nav-item" onclick="prices();"><a class="nav-link" href="#contact">Precios</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://192.168.0.240/pricing/1&1&N">Precios</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Contacto</a></li>
                     </ul>
                 </div>
