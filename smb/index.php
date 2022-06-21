@@ -136,13 +136,12 @@
         <!-- Masthead-->
         <header class="masthead">
             <div class="container" style="text-align:left !important;">
-              <div class="masthead-subheading"><h1 style="color:white !important;">Consigue una wifi segura y estable en tu empresa</h1></div>
-              <div class="text"><p style="font-size: 150%;color:#454138;margin-right:30%;">Mejora la seguridad y la conectividad sin invertir en equipamiento.</p></div>
-
+              <div class="masthead-subheading"><h1 style="color:white !important;">Conozca las vulnerabilidades de sus proyectos web</h1></div>
+              <div class="text"><p style="font-size: 150%;color:#454138;margin-right:30%;">Mejore la seguridad de sus páginas web.</p></div>
               <div class="row align-items-stretch mb-4 md-20">
                 <div class="col-md-2">
                 <button class="btn btn-primary btn-xl" style="font-size:10px; text-align:left !important;border-radius:5px !important;padding:5px 30px 5px 10px !important;" >
-                  <h3 style="color:#454138 !important;text-align:center;" onclick="location.href='https://app.boolibu.com/i2mstatic/32/fe32b_ep/46.html';">Prueba autenticae gratis
+                  <h3 style="color:#454138 !important;text-align:center;" onclick="location.href='https://app.boolibu.com/i2mstatic/32/fe32b_ep/46.html';">Prueba invulnera gratis
                      <img class="rounded-circle img-fluid" src="assets/img/autenticae/autenticae_arrow.svg" style="transform:rotate(90deg);width:8%;" alt="...">
                   </h3>
                 </button>
@@ -244,83 +243,6 @@
                             </li>
                         </ul>
                 </section>
-
-      <section class="page-section" id="carrousel">
-                    <div id="myCarousel" class="carousel slide" style="width:95%; height:100%; margin:auto" data-ride="carousel">
-                      <!-- Indicators -->
-                      <ol class="carousel-indicators">
-                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                        <li data-target="#myCarousel" data-slide-to="1"></li>
-                      </ol>
-
-                      <!-- Wrapper for slides -->
-                      <div class="carousel-inner">
-                        <div class="item active">
-                          <h2 style="color:#454138 !important;" >Sin autenticae <img src="assets/img/autenticae/autenticae_arrow.svg" style="transform:rotate(90deg);width:1.5%;" alt="..."></h2>
-                          <img src="assets/img/autenticae/Autenticae-SIN_autenticae.svg" alt="Sin Autenticae" width="50%">
-                        </div>
-
-                        <div class="item">
-                          <h2 style="color:#454138 !important;" >Con autenticae <img src="assets/img/autenticae/autenticae_arrow.svg" style="transform:rotate(90deg);width:1.5%;" alt="..."></h2>
-                          <img src="assets/img/autenticae/AUTENTICAE-CON_autenticae.svg" alt="Con Autenticae" width="50%">
-                        </div>
-                      </div>
-
-                      <!-- Left and right controls -->
-                      <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                        <span class="glyphicon glyphicon-chevron-left"></span>
-                        <span class="sr-only">Previous</span>
-                      </a>
-                      <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                        <span class="glyphicon glyphicon-chevron-right"></span>
-                        <span class="sr-only">Next</span>
-                      </a>
-                    </div>
-                </section>
-
-      <section class="page-section" id="plataforma">
-                    <div class="container">
-                        <div class="row align-items-center">
-                          <div class="col-md-7 text-left">
-                            <div class="col-md-10 text-right">
-                              <h2 class="section-heading" style="color:#454138 !important;margin:0 !important;">¿Cómo funciona autenticae? <img src="assets/img/autenticae/autenticae_arrow.svg" style="transform:rotate(90deg);width:5%;" alt="..."></h2>
-                            </div>
-                            <div class="col-md-10 mt-3 ml-3" style="color:#454138;">
-                              <h4 class="mb-4">Es una plataforma en la nube
-                                  que permite la gestión de la red wifi, sus
-                                  contraseñas y usuarios. Con autenticae
-                                  podrás:</h4>
-                              <ul class="description">
-                                <li>Ver qué usuarios y dispositivos
-                                  están conectados de un solo
-                                  vistazo.</li>
-                                <li>Limitar el número de dispositivos
-                                    por usuario para mejorar la
-                                    velocidad de la red.</li>
-                                <li>Generar nuevas contraseñas y
-                                    compartirlas por email de forma
-                                    automática y privada.</li>
-                                <li>Bloquear el acceso a cualquier
-                                    usuario con un solo clic.</li>
-                              </ul>
-                            </div>
-                              <div class="col-md-5 mt-4">
-                                <button class="btn btn-primary btn-xl ml-0 blue" style="padding:2% 8% 2% 2%;text-align:center;" id="submitButton" type="submit" onclick="contact()">Quiero una wifi más estable<img src="assets/img/autenticae/autenticae_arrow.svg" style="transform:rotate(90deg);width:11% !important;" alt="..."></button>
-                              </div>
-                          </div>
-                          <div class="col-md-4 text-right mt-2">
-                          <!-- 4:3 aspect ratio -->
-                          <div class="">
-                              <video id="vid" width="500" height="375" autoplay muted>
-                                  <source src="assets/img/autenticae/MockUp_MacBookPro_Autenticae_1.mp4" type="video/mp4">
-                              </video>
-                          </div>
-                          </div>
-
-                      </div>
-                    </div>
-                </section>
-
        <section class="page-section" id="includes" style="background-color:#53B5E4;">
                     <div class="container">
                         <div class="row align-items-center">
