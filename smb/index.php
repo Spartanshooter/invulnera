@@ -243,54 +243,6 @@
                             </li>
                         </ul>
                 </section>
-       <section class="page-section" id="includes" style="background-color:#53B5E4;">
-                    <div class="container">
-                        <div class="row align-items-center">
-                        <div class="col-md-4 text-left" style="color:#53B5E4;">
-                          <img src="assets/img/autenticae/Autenticae-Notas.svg" style="width:100px;" class="img-fluid"></img>
-                          <br>
-                          <img src="assets/img/autenticae/Autenticae-Engranaje.svg" style="margin-left:50%;width:100px;" class="img-fluid"></img>
-                          <br>
-                          <img src="assets/img/autenticae/Autenticae-Burbuja.svg" style="width:100px;" class="img-fluid"></img>
-                        </div>
-                          <div class="col-md-5 text-left" style="background-color:#53B5E4;">
-                            <h2 style="color:white !important;">¿Qué incluye el servicio autenticae?</h4>
-                                      <ul class="description">
-                                        <li><strong style="color:white;">Auditoria inicial gratuita,</strong> para verificar si la infraestructura de red es
-                                            compatible con el servicio autenticae.</li>
-                                        <li><strong style="color:white;">Activación e Integración de la infraestructura,</strong> del servicio autenticae con tu actual sistema.</li>
-                                        <li><strong style="color:white;">Formación </strong> para los responsables y administradores de la empresa.</li>
-                                        <li><strong style="color:white;">Soporte en la resolución de incidencias.</strong> Resuelve tus dudas e
-                                            incidencias en la mayor brevedad gracias a nuestro personal cualificado.</li>
-                                      </ul>
-                                      <div class="col-md-5 text-left">
-                                        <button class="btn btn-primary btn-xl" style="margin-left:5%;border-radius:5px !important; padding:8px 35px 8px 8px;text-align:center;"  onclick="contact()">Prueba autenticae gratis <img src="assets/img/autenticae/autenticae_arrow.svg" style="transform:rotate(90deg);width:10%;"></img></button>
-                                      </div>
-                            </div>
-                          </div>
-                    </div>
-        </section>
-
-        <section class="page-section" id="nelson">
-                    <div class="container">
-                        <div class="row align-items-center">
-                          <div class="col-md-20 text-left" style="color:white;font-size:25px;">
-                            <div class="col-md-20" style="text-align:center;padding-left:30% !important;padding-right:30%;">
-                              <h2 style="color:#454138 !important; " >
-                                “Debemos garantizar el acceso a los usuarios autorizados e impedir los accesos no autorizados a los sistemas de información y servicios”
-                              </h2>
-                            </div>
-                            <div class="col-md-20" style="text-align:center;margin:auto;">
-                              <h3 style="font-size:90%; color:#007096;">- Anexo A.9.2 Gestión de acceso de usuario UNE-ISO/IEC27001 -</h3>
-                            </div>
-                          </div>
-                        </div>
-                            <div class="row align-items-center mt-5">
-                              <div class="col-md-8 text-left" style="font-size:140%;text-align:center;margin:auto;color:#454138;">
-                                <p style="margin-left:25%;margin-right:25%">Queremos ayudar al sector empresarial mediante la adopción de herramientas como autenticae en el reto de mejorar su ciberseguridad</p>
-                              </div>
-                        </div>
-                </section>
         <!-- Contact-->
         <section class="page-section" id="contact">
             <div class="container">
