@@ -286,7 +286,7 @@
                                   <div class="invalid-feedback" data-sb-feedback="message:required"></div>
                               </div>
                           </div>
-						 <div class="g-recaptcha" data-sitekey="6LfbxDogAAAAALgUFDqvZRG_MKE22iasoG1yfCXB"></div>
+						 <div class="g-recaptcha" data-sitekey="6LeHuIkgAAAAAEMK8m7gXBsYvfW-9K66MDqFSgEV"></div>
 <br/>
                           <div class="col-md-20 mt-4">
                             <div class="form-check">
