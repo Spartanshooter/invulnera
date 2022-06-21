@@ -29,13 +29,13 @@
           $mail->CharSet = 'UTF-8';
           $mail->Encoding = 'base64';
           //Configuracion servidor mail
-          $mail->From = "no-reply@autenticae.net"; //remitente
+          $mail->From = "info@neotica.net"; //remitente
           $mail->SMTPAuth = true;                // SMTP username
           $mail->SMTPSecure = 'tls'; //seguridad
           $mail->Host = "smtp.gmail.com"; // servidor smtp
           $mail->FromName = "Servicio autenticae";
           $mail->Port = 587; //puerto
-          $mail->Username ='no-reply@autenticae.net'; //nombre usuario
+          $mail->Username ='info@neotica.net'; //nombre usuario
           $mail->Password = 'PK26DC*js'; //contraseña
           //Agregar destinatario
         //  $mail->AddAddress($_POST['email']);
@@ -58,13 +58,13 @@
           $mail->CharSet = 'UTF-8';
           $mail->Encoding = 'base64';
           //Configuracion servidor mail
-          $mail->From = "no-reply@autenticae.net"; //remitente
+          $mail->From = "info@neotica.net"; //remitente
           $mail->SMTPAuth = true;                // SMTP username
           $mail->SMTPSecure = 'tls'; //seguridad
           $mail->Host = "smtp.gmail.com"; // servidor smtp
           $mail->FromName = "Servicio autenticae";
           $mail->Port = 587; //puerto
-          $mail->Username ='no-reply@autenticae.net'; //nombre usuario
+          $mail->Username ='info@neotica.net'; //nombre usuario
           $mail->Password = 'PK26DC*js'; //contraseña
           //Agregar destinatario
         //  $mail->AddAddress($_POST['email']);
@@ -249,8 +249,8 @@
                 <form id="contactForm" action="" method="post">
                     <div class="row align-items-stretch mb-4 md-20">
                       <div class="col-md-5 text-left">
-                          <h2 class="section-heading" style="color:white !important;text-align:left;">Consigue una wifi más estable y óptima <img src="assets/img/autenticae/autenticae_arrow.svg" style="transform:rotate(90deg);width:5%;" alt="..."></h2>
-                          <h4 class="section-heading" style="color:white !important;text-align:left;">Consigue que empleados y colaboradores tengan un acceso a Internet más rápido, fiable y seguro.</h4>
+                          <h2 class="section-heading" style="color:white !important;text-align:left;">Empieza a securizar tus proyectos web <img src="assets/img/autenticae/autenticae_arrow.svg" style="transform:rotate(90deg);width:5%;" alt="..."></h2>
+                          <h4 class="section-heading" style="color:white !important;text-align:left;">Consigue datos que te ayuden a prevenir fallas de seguridad que podrian ser criticas para tu empresa.</h4>
                           <input type="text" name="contact_type" id="contact_type" style="display:none;" value=""></input>
                           <?php
                             if(isset($_SESSION['alert']))
